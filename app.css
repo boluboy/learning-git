@@ -74,3 +74,8 @@ h2 {
 #manchester {
     background-color: #0a06f0;
 }
+
+.btn {
+    color: rgb(177, 177, 236);
+    border: 2px solid;
+}
